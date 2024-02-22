@@ -2,7 +2,7 @@
 
 ## 👨 Sobre mim   
 - 👀 Trbalho como QA, Analista de Qualidade e Analista de Usabilidade.
-- 🎮 Adoro jogar, apesar de ser ruim na maioria
+- 🎮 Adoro jogar, apesar de ser ruim na maioria deles.
 - 🏍️ Amo viajar de moto pelas cidades interioranas, para recarregar as energias. @quarentenaonroad
 - 📓 Atualmente estou estudando: 
    - 📘 Testes de software
